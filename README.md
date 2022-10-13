@@ -1,2 +1,4 @@
-# zhihuishu-zhidao-wangketiku
-智慧树题库/知到题库/大学网课官方题库破解
+
+##官方题库接口获取方法请咨询下方telegram账号
+@chengfeifeiya
+
